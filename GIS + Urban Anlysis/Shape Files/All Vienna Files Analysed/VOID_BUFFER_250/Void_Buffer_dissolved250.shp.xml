@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220510</CreaDate><CreaTime>23284100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Analysis Tools.tbx\Buffer" Date="20220510" Time="232843">Buffer Void_Centre "J:\My Drive\AIA_STUDIOFILESGIS\ShapeFiles\VOID_BUFFER_250\Void_Buffer_dissolved250.shp" "250 Meters" FULL ROUND NONE # PLANAR</Process></lineage></DataProperties></Esri></metadata>

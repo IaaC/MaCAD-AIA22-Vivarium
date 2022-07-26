@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220619</CreaDate><CreaTime>02522900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Analysis Tools.tbx\Buffer" Date="20220619" Time="025231">Buffer Old_Cluster "J:\My Drive\AIA_STUDIOFILESGIS\SHP_FINALS\Population_Age_Cluster\Old_BufferD.shp" "500 Meters" FULL ROUND ALL # PLANAR</Process></lineage></DataProperties></Esri></metadata>

@@ -1,0 +1,14 @@
+,num_act,top_act,top_act_n,2_act,2_act_n,3_act,3_act_n,top_pose,top_pose_n,2_pose,2_pose_n,3_pose,3_pose_n,activity_variation,activeness
+05 Michaelerplatz,3,pushing a cart,2,writing on a book,1,taking photos,1,upright,5,sitting,3,nothing,0,0.25,0.62
+09 Am Hof Platz,3,applauding,3,drinking,3,cooking,1,upright,10,sitting,2,nothing,0,0.25,0.83
+10 Judenplatz,6,applauding,3,reading,2,cutting vegetables,1,upright,11,sitting,2,nothing,0,0.5,0.85
+11 Karlsplatz,7,drinking,3,applauding,3,cooking,2,upright,13,sitting,7,nothing,0,0.58,0.65
+13 Schwarzenbergplatz,12,riding a bike,4,playing violin,3,applauding,2,upright,20,sitting,10,nothing,0,1.0,0.67
+15 Yppen Platz,9,reading,5,applauding,2,drinking,2,upright,20,sitting,3,nothing,0,0.75,0.87
+01 Donaukanal,8,riding a bike,3,rowing a boat,2,writing on a book,1,upright,15,sitting,3,nothing,0,0.67,0.83
+02 Rathausplatz,6,applauding,9,playing violin,2,playing guitar,2,upright,14,sitting,6,nothing,0,0.5,0.7
+03 Minoritenplatz,8,taking photos,3,walking the dog,2,pushing a cart,2,upright,17,sitting,5,nothing,0,0.67,0.77
+04 Heldenplatz,5,reading,1,walking the dog,1,pushing a cart,1,upright,11,sitting,2,nothing,0,0.42,0.85
+06 Stephansplatz,10,pushing a cart,5,drinking,4,running,3,upright,22,sitting,7,nothing,0,0.83,0.76
+07 Franziskanerplatz,5,pushing a cart,2,reading,2,throwing frisby,1,upright,7,sitting,3,nothing,0,0.42,0.7
+08 Neuer Markt,6,applauding,2,writing on a book,1,pushing a cart,1,upright,8,sitting,3,nothing,0,0.5,0.73
